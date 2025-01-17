@@ -1,4 +1,4 @@
-/*
+ /*
 Clase 19 - Operadores
 Vídeo: https://youtu.be/1glVfFxj8a4?t=4937
 */
